@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working_with_ADO.NET_Disconnected_Model.before", "Working_with_ADO.NET_Disconnected_Model.before\Working_with_ADO.NET_Disconnected_Model.before.csproj", "{D6ACFFA3-C2D7-41C6-9329-DAA11B771820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6ACFFA3-C2D7-41C6-9329-DAA11B771820}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6ACFFA3-C2D7-41C6-9329-DAA11B771820}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6ACFFA3-C2D7-41C6-9329-DAA11B771820}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6ACFFA3-C2D7-41C6-9329-DAA11B771820}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47B8838B-AEB6-4928-A827-F9EB65ED9438}
+	EndGlobalSection
+EndGlobal
